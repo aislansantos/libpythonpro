@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 suportada versão 3 de python.
 
+Criado um novo pull request!
+
 Para instalar:
 
 
