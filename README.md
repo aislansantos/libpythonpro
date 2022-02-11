@@ -5,7 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 link [goole](https://goole.com)
 
-[![Build Status](https://app.travis-ci.com/aislansantos/libpythonpro.svg?branch=main)](https://app.travis-ci.com/aislansantos/libpythonpro)
+Devido algumas insconsistencias no Travis CI, sistema agora esta fazneodo o
+processo de entrega continua pelo Github Actions
 
 suportada versão 3 de python.
 
