@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 link [goole](https://goole.com)
 
+[![Python 3](https://pyup.io/repos/github/aislansantos/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/aislansantos/libpythonpro/)
+
 Devido algumas insconsistencias no Travis CI, sistema agora esta fazneodo o
 processo de entrega continua pelo Github Actions
 
