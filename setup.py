@@ -101,7 +101,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro-aislan"
+PACKAGE = "libpythonpro"
 NAME = "libpythonpro-aislan"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Aislan Santos"

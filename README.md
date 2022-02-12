@@ -27,6 +27,6 @@ Para instalar:
 > 
 Para conferir qualidade do código:
 
->flake8
+>flake8.
 
 
