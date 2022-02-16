@@ -11,4 +11,3 @@ attrs>=19.2.0
 #para pytest
 coverage==6.2
 pytest-cov==3.0.0
-tomli==2.0.0
