@@ -28,5 +28,5 @@ jobs:
         CODECOV_TOKEN: 'fdc254aa-5c4a-415b-874a-5a594e67f0ec'
       run: |
         codecov
-      after_succes:
+      after_success:
         codecov
