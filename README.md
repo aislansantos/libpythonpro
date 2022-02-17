@@ -7,7 +7,7 @@ link [goole](https://goole.com)
 
 [![Python 3](https://pyup.io/repos/github/aislansantos/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/aislansantos/libpythonpro/)
 [![codecov](https://codecov.io/gh/aislansantos/libpythonpro/branch/main/graph/badge.svg?token=KJSUJMN62X)](https://codecov.io/gh/aislansantos/libpythonpro)
-
+.
 Devido algumas insconsistencias no Travis CI, sistema agora esta fazneodo o
 processo de entrega continua pelo Github Actions
 
