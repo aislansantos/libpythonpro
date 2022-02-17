@@ -23,5 +23,8 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: pytest libpythonpro --cov=libpythonpro
-    - after_success:
-      codecov
+    - name: Relatório covarage
+      env:
+        CODECOV_TOKEN: 'fdc254aa-5c4a-415b-874a-5a594e67f0ec'
+      run: |
+        codecov
