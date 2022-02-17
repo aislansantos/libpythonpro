@@ -24,7 +24,6 @@ jobs:
     - name: Test with pytest
       run: pytest libpythonpro --cov=libpythonpro
     - name: Relatório covarage
-      uses: codecov/codecov-action@v2
       env:
         CODECOV_TOKEN: 'fdc254aa-5c4a-415b-874a-5a594e67f0ec'
       run: |
