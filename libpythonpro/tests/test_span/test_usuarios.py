@@ -1,5 +1,4 @@
 import pytest
-
 from libpythonpro.spam.db import Conexao
 from libpythonpro.spam.modelos import Usuario
 
