@@ -9,6 +9,6 @@ def teste_buscar_avatar():
         'login': 'aislansantos', 'id': 53060089, 'node_id': 'MDQ6VXNlcjUzMDYwMDg5',
         'avatar_url': 'https://avatars.githubusercontent.com/u/53060089?v=4'
     }
-    github_api.requests.get = Mock(return_value=resp_mock)
+    github_api.requests.get = Mock(return_value=resp_mock) # trocamos aqui a api do github para para um modulo interno isolado
     url = github_api.buscar_avatar('aislansantos')
     assert 'https://avatars.githubusercontent.com/u/53060089?v=4' == url
